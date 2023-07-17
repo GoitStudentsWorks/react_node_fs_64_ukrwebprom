@@ -15,7 +15,7 @@ root.render(
   <React.StrictMode>
     <Provider store={store}>
     <PersistGate loading={null} persistor={persistor}>
-      <BrowserRouter basename="/TaskPro">
+      <BrowserRouter basename="/react_node_fs_64_ukrwebprom">
         <App />
       </BrowserRouter>
       </PersistGate>
