@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react_node_fs_64_ukrwebprom/static/css/main.20113046.css",
-    "main.js": "/react_node_fs_64_ukrwebprom/static/js/main.634da6fb.js",
+    "main.js": "/react_node_fs_64_ukrwebprom/static/js/main.6c6a2afb.js",
     "static/css/552.db71c40b.chunk.css": "/react_node_fs_64_ukrwebprom/static/css/552.db71c40b.chunk.css",
     "static/js/552.7794da71.chunk.js": "/react_node_fs_64_ukrwebprom/static/js/552.7794da71.chunk.js",
     "static/css/503.0ba5e9f0.chunk.css": "/react_node_fs_64_ukrwebprom/static/css/503.0ba5e9f0.chunk.css",
@@ -37,7 +37,7 @@
     "static/media/user_light.svg": "/react_node_fs_64_ukrwebprom/static/media/user_light.7744c14c887e56d9dfbd4986541fa655.svg",
     "static/media/user_violet.svg": "/react_node_fs_64_ukrwebprom/static/media/user_violet.e425c7a610d0f4e74a5dff581d529894.svg",
     "main.20113046.css.map": "/react_node_fs_64_ukrwebprom/static/css/main.20113046.css.map",
-    "main.634da6fb.js.map": "/react_node_fs_64_ukrwebprom/static/js/main.634da6fb.js.map",
+    "main.6c6a2afb.js.map": "/react_node_fs_64_ukrwebprom/static/js/main.6c6a2afb.js.map",
     "552.db71c40b.chunk.css.map": "/react_node_fs_64_ukrwebprom/static/css/552.db71c40b.chunk.css.map",
     "552.7794da71.chunk.js.map": "/react_node_fs_64_ukrwebprom/static/js/552.7794da71.chunk.js.map",
     "503.0ba5e9f0.chunk.css.map": "/react_node_fs_64_ukrwebprom/static/css/503.0ba5e9f0.chunk.css.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.20113046.css",
-    "static/js/main.634da6fb.js"
+    "static/js/main.6c6a2afb.js"
   ]
 }
